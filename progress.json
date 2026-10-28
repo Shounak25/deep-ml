@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T19:37:50.907Z",
+  "generated_at": "2026-10-28T02:56:02.909Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -65,6 +65,19 @@
       "last_pushed_at": "2026-10-27T19:37:49.223Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-10-28T02:55:48.106Z",
+      "last_pushed_at": "2026-10-28T02:55:48.106Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
