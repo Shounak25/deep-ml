@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 24 problems · 0 labs · 0 math
+**25** solved · 25 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Precision Metric](https://www.deep-ml.com/problems/46) | easy | 2026-10-28 | [solution](problems/0046-implement-precision-metric) |
 | [Implement Recall Metric in Binary Classification](https://www.deep-ml.com/problems/52) | easy | 2026-10-29 | [solution](problems/0052-implement-recall-metric-in-binary-classification) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-10-28 | [solution](problems/0042-implement-relu-activation-function) |
+| [Implement the ELU Activation Function](https://www.deep-ml.com/problems/97) | easy | 2026-10-29 | [solution](problems/0097-implement-the-elu-activation-function) |
 | [Implement the Hard Sigmoid Activation Function](https://www.deep-ml.com/problems/96) | easy | 2026-10-29 | [solution](problems/0096-implement-the-hard-sigmoid-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-10-28 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [KL Divergence Between Two Normal Distributions](https://www.deep-ml.com/problems/56) | easy | 2026-10-29 | [solution](problems/0056-kl-divergence-between-two-normal-distributions) |
