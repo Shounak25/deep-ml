@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T05:51:43.803Z",
+  "generated_at": "2026-10-29T05:54:06.232Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -284,6 +284,19 @@
       "path": "problems/0072-calculate-jaccard-index-for-binary-classification",
       "first_solved_at": "2026-10-29T05:51:41.852Z",
       "last_pushed_at": "2026-10-29T05:51:41.852Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:96": {
+      "kind": "problem",
+      "id": "96",
+      "title": "Implement the Hard Sigmoid Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/96",
+      "path": "problems/0096-implement-the-hard-sigmoid-activation-function",
+      "first_solved_at": "2026-10-29T05:54:04.332Z",
+      "last_pushed_at": "2026-10-29T05:54:04.332Z",
       "language": "python",
       "lines": 15
     }
