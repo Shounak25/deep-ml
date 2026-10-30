@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T05:09:04.685Z",
+  "generated_at": "2026-10-30T05:19:57.603Z",
   "items": {
     "problem:5": {
       "kind": "problem",
@@ -442,6 +442,19 @@
       "last_pushed_at": "2026-10-30T05:09:00.184Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:43": {
+      "kind": "problem",
+      "id": "43",
+      "title": "Implement Ridge Regression Loss Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/43",
+      "path": "problems/0043-implement-ridge-regression-loss-function",
+      "first_solved_at": "2026-10-30T05:19:53.171Z",
+      "last_pushed_at": "2026-10-30T05:19:53.171Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
